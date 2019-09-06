@@ -32,3 +32,17 @@ h3 {
     line-height: 2.7;
     letter-spacing: 0.8px;
 }
+
+th {
+    border: 2px solid #8c6b48;
+}
+
+table {
+    text-align: center;
+    margin: 20px auto;
+}
+
+td {
+    border: 2px solid #8c6b48;
+    width: 300px;
+}
