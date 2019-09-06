@@ -62,3 +62,14 @@ footer h3 {
     font-size: 14px;
     background-color: #242f44;
 }
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+    height: 800px;
+}
+
+
+.left {
+    width: 150px;
+}
